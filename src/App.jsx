@@ -178,6 +178,7 @@ const App = () => {
                 <a href="https://keeplearning.unrwa.org/team">اضغط هنا</a>
 
               </p>
+              <p>by alghoul and abu-jwaid</p>
 
           </div>
         </div>
@@ -195,8 +196,10 @@ const App = () => {
     <div className="App">
       <div className='mt-5 mb-2 rounded'>
         <img src={logo} alt="" />
+        
         <h3 className='mx-3 '>مدرسة ذكور مخيم عمان الاعدادية الثانية</h3>
         <p className='px-5'>الحصول على البريد الالكتروني وكلمة المرور للدخول الى تطبيق مايكروسوفت تيمز</p>
+        
       </div>
 
       <div className='px-4 '>
@@ -210,9 +213,7 @@ const App = () => {
       {
         person ? renderPerson(person) : renderNames()
       }
-      <div className="copyright">
-        by <span>alghoul and abu-jwaid</span>
-        </div>
+      
     </div>
   );
 }
