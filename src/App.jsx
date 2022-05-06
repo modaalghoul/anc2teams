@@ -210,7 +210,9 @@ const App = () => {
       {
         person ? renderPerson(person) : renderNames()
       }
-
+      <div className="copyright">
+        by <span>alghoul and abu-juiaed</span>
+        </div>
     </div>
   );
 }
