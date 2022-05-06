@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/anc2teams/static/css/main.a197f9ed.css",
-    "main.js": "/anc2teams/static/js/main.4ec948ff.js",
+    "main.css": "/anc2teams/static/css/main.c99bedb7.css",
+    "main.js": "/anc2teams/static/js/main.e42db5b7.js",
     "static/js/787.28cb0dcd.chunk.js": "/anc2teams/static/js/787.28cb0dcd.chunk.js",
     "static/media/logo.jpg": "/anc2teams/static/media/logo.63e5ef1bb3d4648ec615.jpg",
     "index.html": "/anc2teams/index.html",
-    "main.a197f9ed.css.map": "/anc2teams/static/css/main.a197f9ed.css.map",
-    "main.4ec948ff.js.map": "/anc2teams/static/js/main.4ec948ff.js.map",
+    "main.c99bedb7.css.map": "/anc2teams/static/css/main.c99bedb7.css.map",
+    "main.e42db5b7.js.map": "/anc2teams/static/js/main.e42db5b7.js.map",
     "787.28cb0dcd.chunk.js.map": "/anc2teams/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a197f9ed.css",
-    "static/js/main.4ec948ff.js"
+    "static/css/main.c99bedb7.css",
+    "static/js/main.e42db5b7.js"
   ]
 }
